@@ -12,11 +12,12 @@
 Estudiante de **Ingeniería de Sistemas** en la UNSCH (Ayacucho, Perú) y técnico al frente de **INGenio TEC**.
 Me gusta convertir cables en soluciones y código en ideas que funcionan.
 
-- 🔌 Instalaciones eléctricas, circuitos y sistemas digitales
+- 🔌 Técnico en electrónica y electricidad 
 - 📊 Análisis de datos con SQL Server y Power BI
-- 🧮 Métodos numéricos y procesamiento de señales en MATLAB
-- 🌐 Redes y telecomunicaciones con Cisco Packet Tracer
-- 📫 Escríbeme a: **tu_correo@gmail.com**
+- 🧮 Analista de Software 
+- 💻 Desarrollador de Software 
+- ⚡ Fundador de INGenio TEC 
+- 📫 Escríbeme a: **yesramirez684@gmail.com**
 
 </td>
 <td width="40%" align="center">
