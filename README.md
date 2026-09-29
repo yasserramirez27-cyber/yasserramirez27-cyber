@@ -22,7 +22,7 @@ Me gusta convertir cables en soluciones y código en ideas que funcionan.
 </td>
 <td width="40%" align="center">
   <!-- Reemplaza la URL por tu propio GIF o imagen -->
-  <img src="https://URL-DE-TU-GIF.gif" width="280" alt="gif">
+  <img src="[https://URL-DE-TU-GIF.gif](https://tenor.com/es/view/phineas-and-ferb-heinz-doofenshmirtz-shoot-inator-ugly-inator-gif-10244265577398910790)" width="280" alt="gif">
 </td>
 </tr>
 </table>
