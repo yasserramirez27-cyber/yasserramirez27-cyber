@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasser — <i>Zenit</i></h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas · Técnico y fundador de INGenio TEC ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Software+%F0%9F%93%8A;Desarrollador+de+Software+%F0%9F%92%BB;Fundador+de+INGenio+TEC+%E2%9A%A1" alt="typing">
+</p>
 
 <hr>
 
@@ -12,17 +15,16 @@
 Estudiante de **Ingeniería de Sistemas** en la UNSCH (Ayacucho, Perú) y técnico al frente de **INGenio TEC**.
 Me gusta convertir cables en soluciones y código en ideas que funcionan.
 
-- 🔌 Técnico en electrónica y electricidad 
+- 🔌 Técnico en electrónica y electricidad
 - 📊 Análisis de datos con SQL Server y Power BI
-- 🧮 Analista de Software 
-- 💻 Desarrollador de Software 
-- ⚡ Fundador de INGenio TEC 
+- 🧮 Analista de Software
+- 💻 Desarrollador de Software
+- ⚡ Fundador de INGenio TEC
 - 📫 Escríbeme a: **yesramirez684@gmail.com**
 
 </td>
 <td width="40%" align="center">
-  <!-- Reemplaza la URL por tu propio GIF o imagen -->
-  <img src="[<img src="https://media1.tenor.com/m/jirxRCWfv0YAAAAC/phineas-and-ferb-heinz-doofenshmirtz.gif" width="280" alt="Doofenshmirtz">" width="280" alt="gif">
+  <img src="https://media1.tenor.com/m/jirxRCWfv0YAAAAC/phineas-and-ferb-heinz-doofenshmirtz.gif" width="280" alt="Doofenshmirtz">
 </td>
 </tr>
 </table>
